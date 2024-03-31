@@ -1,0 +1,6 @@
+[submodule "Modules/Setting"]
+	path = Modules/Setting
+	url = https://redmine.ig.webike.net/gitbucket/git/GBM/GBM_Setting_Module.git
+[submodule "Modules/IAM"]
+	path = Modules/IAM
+	url = https://redmine.ig.webike.net/gitbucket/git/GBM/GBM_IAM_Module.git
